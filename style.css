@@ -4,6 +4,7 @@ html ,body{
    margin: 0;
    
   color: white;
+   font-size: 2rem;
    
    
      
@@ -17,12 +18,12 @@ html ,body{
     background-color: #1f2937;
   font-weight: bold;
   display: flex;
-  height: 75vh;
+  height: 70vh;
      flex-direction: column;
    font-size: 48px; 
    padding: 0;
    margin: 0;
-     
+    
    
      
 }
@@ -31,22 +32,33 @@ h1{
   color: #F9FAF8;
   font-weight: 900;
   display: flex;
-  margin: 48px;
+  margin: 42px;
+  margin-top: -85px;
+  
+
+  
 }
 h2{
   font-size: 48px;
    color: #F9FAF8;
  display: flex;
   margin:  48px;
-   
+  text-align: center;
+    
    
 }
+body{
+    
+}
+ 
+ 
 h3{
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 36px;
   color: #1f2937;
+   
    
    
 }
@@ -56,6 +68,7 @@ h3{
 .logo{
 font-size: 24px  ; 
 color: #F9FAF8;
+ 
 }
 a {
    
@@ -82,11 +95,14 @@ ul li {
 }
 
 ul li:last-child{
-  padding-right:   10px;
+  padding-right:   150px;
 }
  
 .links{
-margin-top:  -500px
+margin-top:  -520px;
+ 
+  
+ 
 
 }
 div{
@@ -94,6 +110,7 @@ font-size: 18px;
 margin-bottom: 18px;
 color: #E5E7EB;
   margin: 48px;
+   
 }
 button{
   cursor: pointer;
@@ -104,8 +121,24 @@ button{
    font-size: 15px;
   text-decoration: none;
   border: none;
+   
   
 }
+img{
+  display: block;
+  margin-left: auto;
+  width:  500px;
+  float: right;
+  position: absolute;
+   right: 13%;
+  top: 28%;
+   
+
+}
+ 
+
+ 
 
 
+ 
  
