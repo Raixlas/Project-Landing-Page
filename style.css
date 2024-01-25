@@ -83,9 +83,6 @@ ul li:last-child{
 .links{
 margin-top:  -520px;
  
-  
- 
-
 }
 div{
 font-size: 18px;
@@ -139,7 +136,21 @@ img{
     float: left;
     margin: -90px;
    }
-  
-  
-  
+   
+   
+   
+  .quote{
+    background-color: #E5E7EB;
+    color: #1f2937;
+    font-size: 36px;
+    font-style:  italic;
+      
+    display: flex;
+     padding: 200px;
+     margin: -48px;
+     float: left;
+      margin-top: 60px;
+    text-align: left;
+    
+  }
    
