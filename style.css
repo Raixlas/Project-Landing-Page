@@ -22,7 +22,7 @@ html ,body{
    padding: 0;
    margin: 0;
     
-   
+   padding-left: 75px
      
 }
 h1{
@@ -144,13 +144,64 @@ img{
     color: #1f2937;
     font-size: 36px;
     font-style:  italic;
-      
-    display: flex;
      padding: 200px;
      margin: -48px;
      float: left;
       margin-top: 60px;
-    text-align: left;
-    
+      padding-left: 540px;
+      padding-right: 540px;
   }
-   
+  h4{
+  font-size: 24px; 
+  color: #1f2937; 
+  font-weight: bold;
+  display: flex;
+  margin: -45px;
+   float: right;
+    padding-right: 590px;
+    margin-top: -160px;
+  }
+   h5{
+    background-color: #3882f6;
+    color: #F9FAF8;
+    font-size: 24px;
+    display: flex;
+    padding: 60px;
+    margin: 325px;
+    border-radius: 10px ;
+      float: left;
+      margin-top: 130px;
+      width:  950px;
+     padding-left: 125px;
+   }
+
+   .info2{
+    color: #E5E7EB;
+    display: flex;
+    float: left;
+    margin-top: -386px;
+    padding-left: 401px;
+     
+   }
+   .Signup2{
+    font-size: 18px;
+    display: flex;
+    float: right;
+    border-radius: 10px;
+    margin-top: -410px;
+      margin-right: 470px;
+      border:2px solid    
+      
+   }
+   .footer{
+      
+     background-color: #1f2937;
+     padding: 40px;
+     float: left;
+     width: 1042px;
+     text-align: center;
+     display: flex;
+     margin: -50px;
+      
+     padding-left: 825px; 
+   }
